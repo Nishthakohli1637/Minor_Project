@@ -1,5 +1,6 @@
 # Minor_Project
 CROP ANALYSIS IN ANDHRA PRADESH 
+
 Team Members: Bhavya Gupta, Nishtha Kohli, Vanshika Kathuria, Yash Thakran
 
 The agricultural landscape of India faces challenges in optimizing crop selection and predicting yields to ensure food security and economic sustainability. 
@@ -29,4 +30,4 @@ The application of linear regression and random forest algorithms yields promisi
 In conclusion, this project presents a comprehensive approach to crop analysis in Andhra Pradesh, leveraging machine learning techniques and data visualization tools. The integration of linear regression, random forest, and Power BI provides a robust framework for making informed decisions in crop planning and resource allocation. The findings of this project contribute to the advancement of precision agriculture, offering a pathway to enhance agricultural productivity and sustainability in the region.
 
 
-![image](https://github.com/Nishthakohli1637/Minor_Project/assets/88179674/858fa2c0-cef8-4968-a2eb-23ad821d22ec)
+
